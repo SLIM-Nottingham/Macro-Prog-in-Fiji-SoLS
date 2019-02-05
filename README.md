@@ -35,7 +35,7 @@ To register for this workshop please email Chris Gell (christopher.gell@nottingh
 
 # Other information
 
-The workshop takes place in The Medical School, QMC, computer room A36 (located in the Greenfield Medical Librabry - you will need your library card for acess).
+The workshop takes place in The Medical School, QMC, computer room A36 (located in the Greenfield Medical Library - **you will need your library card for acess**).
 
 The day runs from 09:30 until 16:30. There will be an hour long lunch break and shorter breaks during the morning and afternoon sessions. 
 
