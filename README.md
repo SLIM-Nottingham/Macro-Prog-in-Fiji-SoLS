@@ -1,6 +1,6 @@
 # **Introduction to Macro Programming in Fiji**
 
-**The next workshop is scheduled for Friday March 15th 2019.**
+**The next workshop is scheduled for .**
 
 This is a  1-day course specifically for staff, postdocs or PhD students based in the **School of Life Sciences**.
 
@@ -25,7 +25,7 @@ There is a charge of £25 to attend this 1-day course.
 
 # Registration
 
-To register for this workshop please email Chris Gell (christopher.gell@nottingham.ac.uk) with:
+To register for this workshop please email Seema Bagia (seema.bagia@nottingham.ac.uk) with:
 
 * Your name and Dept/School
 * Your supervisor
